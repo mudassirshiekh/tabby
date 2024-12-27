@@ -19,7 +19,7 @@
 ----
 
 ### Downloads:
-
+## By Mudassir Alam
 * [Latest release](https://github.com/Eugeny/tabby/releases/latest)
 * [Repositories](https://packagecloud.io/eugeny/tabby): [Debian/Ubuntu-based](https://packagecloud.io/eugeny/tabby/install#bash-deb), [RPM-based](https://packagecloud.io/eugeny/tabby/install#bash-rpm)
 * [Latest nightly build](https://nightly.link/Eugeny/tabby/workflows/build/master)
